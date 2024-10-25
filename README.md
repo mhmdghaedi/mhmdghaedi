@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Mohammad<br>I'm a senior full-stack developer and proud member of the Turing research group, specializing in Next.js, JavaScript, Node.js, Python, C#, , C++, React.js, TypeScript, MongoDB. 
+Hi, I am Mohammad<br>I'm a senior full-stack developer and proud member of the Turing research group, specializing in Next.js, JavaScript, Node.js, Python, C#, C++, React.js, TypeScript, MongoDB. 
 
 
 ## 🌐 Socials:
