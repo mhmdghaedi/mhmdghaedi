@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I am Mohammad<br>I'm a senior full-stack developer and proud member of the Turing research group, specializing in Next.js, JavaScript, Node.js, Python, C#, C++, React.js, TypeScript, MongoDB. 
 
+<img src="turing.png"></img>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this_mhmdd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ghaedi-b81690328/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mhmdghaediii) 
